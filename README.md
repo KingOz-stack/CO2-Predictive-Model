@@ -1,4 +1,3 @@
-Here’s a clear and professional **README** file for your project:  
 
 ---
 
@@ -84,7 +83,7 @@ The dataset was sourced from Kaggle and includes daily atmospheric CO₂ concent
 ## **How to Run the Project**  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-link>  
+   git clone <https://github.com/KingOz-stack/CO2-Predictive-Model>  
    ```  
 2. Ensure R and necessary libraries (`tidyverse`, `ggplot2`, `caret`, `lubridate`) are installed.  
 3. Run the R scripts in sequence:  
@@ -96,7 +95,7 @@ The dataset was sourced from Kaggle and includes daily atmospheric CO₂ concent
 
 ## **Contributors**  
 - Favour Umejesi  
-- [Angel Antwi-Mensah]  
+- Angel Antwi-Mensah 
 
 ---
 
